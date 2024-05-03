@@ -3,17 +3,29 @@
 Index:
 
 1.Business context
+
 2.Problem statement
+
 3.Importing the libraries and the dataset
+
 4.Understand the data
+
 5.Data cleaning
+
 6.Handling missing data
+
 7.Exploratory data analysis
+
 8.Feature selection
+
 9.Data preprocessing
+
 10.ML model implementation
+
 11.Results
+
 12.Summary and conclusions
+
 13.References
 
 # Business Context
